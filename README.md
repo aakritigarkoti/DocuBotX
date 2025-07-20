@@ -2,7 +2,7 @@
 
 DocuBotX is an AI-powered application that allows users to upload a PDF and ask questions based on its content. It leverages **LangChain**, **Hugging Face models**, and **Streamlit** to provide intelligent, context-aware answers from documents.  
 
-This is a solo project developed by **Aakriti Garkoti** as part of an advanced portfolio to showcase skills in **AI/ML, NLP, and app deployment**.
+
 
 ---
 
